@@ -1,4 +1,4 @@
-![It is Olympics symbols!](Olympics.jpeg "The symbol")
+![It is Olympics symbols!](Olympics.jpg "The Symbols")
 
 # The Olympics Data Analyzation
 
@@ -13,5 +13,6 @@ Just aneditor and Git!
 
 ## Authors
 Anson Lee
+
 ##License 
 This project is licensed under the MLT license 
