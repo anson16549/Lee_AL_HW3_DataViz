@@ -1,4 +1,4 @@
-![It is Olympics symbols!](fiverings.jpeg "Five RINGS")
+![It is Olympics symbols!](Olympics.jpeg "The symbol")
 
 # The Olympics Data Analyzation
 
