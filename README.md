@@ -14,5 +14,5 @@ Just aneditor and Git!
 ## Authors
 Anson Lee
 
-##License 
+## License 
 This project is licensed under the MLT license 
